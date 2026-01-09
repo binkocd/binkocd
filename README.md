@@ -27,8 +27,8 @@ Building resilient, automated infrastructure and scalable cloud environments. Fo
 ---
 
 ### 📈 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=binkocd&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binkocd&layout=compact&theme=transparent&hide_border=true)
+![Joshua's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=binkocd&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=binkocd&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
